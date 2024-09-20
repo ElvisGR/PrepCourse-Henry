@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+Prueba de como crear repositorio  y copiar a local
